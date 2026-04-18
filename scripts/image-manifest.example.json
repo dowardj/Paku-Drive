@@ -1,0 +1,12 @@
+[
+  {
+    "source": "https://example.com/your-licensed-photo-01.jpg",
+    "name": "licensed-photo-01.jpg",
+    "alt": "Replace with your official caption"
+  },
+  {
+    "source": "./assets/images/source/official-drone-shot.jpg",
+    "name": "official-drone-shot.jpg",
+    "alt": "Replace with your official caption"
+  }
+]

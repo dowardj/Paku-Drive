@@ -1,0 +1,222 @@
+[
+  {
+    "src": "/assets/images/aerial-view-front-close.jpg",
+    "alt": "aerial view front close",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-front-close-640.webp",
+      "/assets/images/aerial-view-front-close-960.webp",
+      "/assets/images/aerial-view-front-close-1280.webp",
+      "/assets/images/aerial-view-front-close-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/aerial-view-front.jpg",
+    "alt": "aerial view front",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-front-640.webp",
+      "/assets/images/aerial-view-front-960.webp",
+      "/assets/images/aerial-view-front-1280.webp",
+      "/assets/images/aerial-view-front-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/aerial-view-left.jpg",
+    "alt": "aerial view left",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-left-640.webp",
+      "/assets/images/aerial-view-left-960.webp",
+      "/assets/images/aerial-view-left-1280.webp",
+      "/assets/images/aerial-view-left-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/aerial-view-right-ocean-focus.jpg",
+    "alt": "aerial view right ocean focus",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-right-ocean-focus-640.webp",
+      "/assets/images/aerial-view-right-ocean-focus-960.webp",
+      "/assets/images/aerial-view-right-ocean-focus-1280.webp",
+      "/assets/images/aerial-view-right-ocean-focus-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/aerial-view-right.jpg",
+    "alt": "aerial view right",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-right-640.webp",
+      "/assets/images/aerial-view-right-960.webp",
+      "/assets/images/aerial-view-right-1280.webp",
+      "/assets/images/aerial-view-right-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/aerial-view.jpg",
+    "alt": "aerial view",
+    "responsiveWebp": [
+      "/assets/images/aerial-view-640.webp",
+      "/assets/images/aerial-view-960.webp",
+      "/assets/images/aerial-view-1280.webp",
+      "/assets/images/aerial-view-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/balcony-view.jpg",
+    "alt": "balcony view",
+    "responsiveWebp": [
+      "/assets/images/balcony-view-640.webp",
+      "/assets/images/balcony-view-960.webp",
+      "/assets/images/balcony-view-1280.webp",
+      "/assets/images/balcony-view-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/bathroom-2.jpg",
+    "alt": "bathroom 2",
+    "responsiveWebp": [
+      "/assets/images/bathroom-2-640.webp",
+      "/assets/images/bathroom-2-960.webp",
+      "/assets/images/bathroom-2-1280.webp",
+      "/assets/images/bathroom-2-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/bathroom.jpg",
+    "alt": "bathroom",
+    "responsiveWebp": [
+      "/assets/images/bathroom-640.webp",
+      "/assets/images/bathroom-960.webp",
+      "/assets/images/bathroom-1280.webp",
+      "/assets/images/bathroom-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/bedroom-2.jpg",
+    "alt": "bedroom 2",
+    "responsiveWebp": [
+      "/assets/images/bedroom-2-640.webp",
+      "/assets/images/bedroom-2-960.webp",
+      "/assets/images/bedroom-2-1280.webp",
+      "/assets/images/bedroom-2-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/composite.jpg",
+    "alt": "composite",
+    "responsiveWebp": [
+      "/assets/images/composite-640.webp",
+      "/assets/images/composite-960.webp",
+      "/assets/images/composite-1280.webp",
+      "/assets/images/composite-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/dining.jpg",
+    "alt": "dining",
+    "responsiveWebp": [
+      "/assets/images/dining-640.webp",
+      "/assets/images/dining-960.webp",
+      "/assets/images/dining-1280.webp",
+      "/assets/images/dining-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/fireplace-and-view.jpg",
+    "alt": "fireplace and view",
+    "responsiveWebp": [
+      "/assets/images/fireplace-and-view-640.webp",
+      "/assets/images/fireplace-and-view-960.webp",
+      "/assets/images/fireplace-and-view-1280.webp",
+      "/assets/images/fireplace-and-view-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/floor-3.png",
+    "alt": "floor 3",
+    "responsiveWebp": [
+      "/assets/images/floor-3-640.webp",
+      "/assets/images/floor-3-960.webp",
+      "/assets/images/floor-3-1280.webp",
+      "/assets/images/floor-3-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/kitchen.jpg",
+    "alt": "kitchen",
+    "responsiveWebp": [
+      "/assets/images/kitchen-640.webp",
+      "/assets/images/kitchen-960.webp",
+      "/assets/images/kitchen-1280.webp",
+      "/assets/images/kitchen-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/lounge.jpg",
+    "alt": "lounge",
+    "responsiveWebp": [
+      "/assets/images/lounge-640.webp",
+      "/assets/images/lounge-960.webp",
+      "/assets/images/lounge-1280.webp",
+      "/assets/images/lounge-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/office-and-bed.jpg",
+    "alt": "office and bed",
+    "responsiveWebp": [
+      "/assets/images/office-and-bed-640.webp",
+      "/assets/images/office-and-bed-960.webp",
+      "/assets/images/office-and-bed-1280.webp",
+      "/assets/images/office-and-bed-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/office-space-2.jpg",
+    "alt": "office space 2",
+    "responsiveWebp": [
+      "/assets/images/office-space-2-640.webp",
+      "/assets/images/office-space-2-960.webp",
+      "/assets/images/office-space-2-1280.webp",
+      "/assets/images/office-space-2-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/office-space.jpg",
+    "alt": "office space",
+    "responsiveWebp": [
+      "/assets/images/office-space-640.webp",
+      "/assets/images/office-space-960.webp",
+      "/assets/images/office-space-1280.webp",
+      "/assets/images/office-space-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/spare-room.jpg",
+    "alt": "spare room",
+    "responsiveWebp": [
+      "/assets/images/spare-room-640.webp",
+      "/assets/images/spare-room-960.webp",
+      "/assets/images/spare-room-1280.webp",
+      "/assets/images/spare-room-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/sun-room.jpg",
+    "alt": "sun room",
+    "responsiveWebp": [
+      "/assets/images/sun-room-640.webp",
+      "/assets/images/sun-room-960.webp",
+      "/assets/images/sun-room-1280.webp",
+      "/assets/images/sun-room-1920.webp"
+    ]
+  },
+  {
+    "src": "/assets/images/sunroom-view.jpg",
+    "alt": "sunroom view",
+    "responsiveWebp": [
+      "/assets/images/sunroom-view-640.webp",
+      "/assets/images/sunroom-view-960.webp",
+      "/assets/images/sunroom-view-1280.webp",
+      "/assets/images/sunroom-view-1920.webp"
+    ]
+  }
+]
